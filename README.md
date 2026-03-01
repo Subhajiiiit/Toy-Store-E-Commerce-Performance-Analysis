@@ -1,6 +1,10 @@
 # Toy-Store-E-Commerce-Performance-Analysis
 Objective:To analyze website sessions, order volume, conversion rate, and revenue performance.
 
+ Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
+
 Tools Used:Power BI
 
 Key KPIs: Total Revenue
